@@ -1,0 +1,4 @@
+linky
+=====
+
+Internal link sharing

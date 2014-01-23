@@ -1,4 +1,4 @@
-linky
+linki
 =====
 
 Internal link sharing

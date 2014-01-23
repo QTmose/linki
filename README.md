@@ -1,3 +1,3 @@
-## Link
+## Linki
 
 Internal link sharing
